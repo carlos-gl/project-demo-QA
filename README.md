@@ -1,7 +1,7 @@
 ## Setup
 
 * Clone the repo:
-    https://github.com/carlos-gl/cypress_automation.git
+    https://github.com/carlos-gl/project-demoQA.git
 
 * Install dependencies:
    - npm install cypress --save-dev
