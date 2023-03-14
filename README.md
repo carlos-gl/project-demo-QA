@@ -4,7 +4,7 @@
     git clone https://github.com/carlos-gl/project-demo-QA.git
 
 * Install dependencies:
-   - npm install cypress --save-dev
+   - npm install cypress@12.7 --save-dev
    - npm install -D cypress-xpath
   
 * Run tests:
