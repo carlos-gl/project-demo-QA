@@ -1,7 +1,7 @@
 ## Setup
 
 * Clone the repo:
-    https://github.com/carlos-gl/project-demo-QA.git
+    git clone https://github.com/carlos-gl/project-demo-QA.git
 
 * Install dependencies:
    - npm install cypress --save-dev
